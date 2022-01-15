@@ -8,17 +8,17 @@ Note : Please do this config before it use!
 
 1. DataBase Config : (DB File is inside the main folder - aizonlabs.sql)
                      DB Config Loction : /app/database/connect.php
-                   ___________________________
-                   | $host = 'localhost';    |
-                   | $user = 'root';         | 
-                   | $pass = '';             |
-                   | $db_name = 'aizonlabs'; |
-                   |_________________________|
+                  
+                    $host = 'localhost';    
+                    $user = 'root';         
+                    $pass = '';             
+                    $db_name = 'aizonlabs'; 
+               
                    
 2. Set Root Path : (Location path.php)
-                 _____________________________
-                  http://localhost/aizonlabs
-                 _____________________________
+                 
+                 http://localhost/aizonlabs
+                 
                  
 3. Admin : 
           Username : mishab
