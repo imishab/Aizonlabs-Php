@@ -1,0 +1,36 @@
+.available-app-area {
+    position: relative;
+    padding-top: 149px;
+    padding-bottom: 81px;
+}
+.available-app-area {
+    background-image: -moz-linear-gradient(0deg, #3844ec 0%, #2b0791 100%);
+    background-image: -webkit-linear-gradient(
+0deg
+, #2954e2 0%, #000264 100%);
+    background-image: -ms-linear-gradient(0deg, #6c19f6 0%, #f9218d 100%);
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.available-app-area .app-caption .section-tittle3 h2 {
+    color: #fff;
+    margin-bottom: 35px;
+    font-weight: 600;
+}
+.section-tittle h2 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 90px;
+}
+.available-app-area .app-caption p {
+    color: #fff;
+    padding-right: 52px;
+    padding-bottom: 26px;
+}
